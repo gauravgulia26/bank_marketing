@@ -10,3 +10,4 @@ typer
 -e .
 ucimlrepo
 imbalanced-learn
+optuna
